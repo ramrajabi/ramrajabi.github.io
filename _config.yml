@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Ram Rajabi
-title: Formaly known as "Mohammad Rajabi BabaAhmadi"
-email: mohammad.rajabi.ba@gmail.com
+title: Software engineering student | Focused on AI/ML
+email: RamRajabi@tuta.io
 website: RamRajabi.github.io
 
 # Dark Mode (true/false/never)
@@ -22,20 +22,21 @@ linkedin_username: ramrajabi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ram. I'm a computer engineering student interested in AI/ML.  
-  I also enjoy teaching and have experience sharing my knowledge with others.  
+  I also enjoy teaching and have experience sharing my knowledge with others.
+  Although I have to mention that Ram is a Nickname and my real official name is "Mohammad Rajabi BabaAhmadi".
 
   My strongest skills are: <mark>Linux</mark> and <mark>Python</mark>.
 
 content:
-  - title: Projects
-    layout: list
-    content:
-      - layout: top-middle
-        title: ProjectEuler Solutions
-        link: https://github.com/mo-rajabi/projecteuler-solutions
-        description: |
-          I started this project to practice problem-solving and apply theoretical
-          mathematics in programming.
+#  - title: Projects
+#    layout: list
+#    content:
+#      - layout: top-middle
+#        title: ProjectEuler Solutions
+#        link: https://github.com/mo-rajabi/projecteuler-solutions
+#        description: |
+#          I started this project to practice problem-solving and apply theoretical
+#          mathematics in programming.
 
   - title: Experience
     layout: list
