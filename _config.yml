@@ -69,11 +69,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
+      Although I have to mention that Ram is a nickname that I use. My official name is <mark>Mohammad Rajabi BabaAhmadi</mark>.
       Alongside my interests in software engineering, some of my other hobbies are:
       - Gym
       - Reading books (mostly philosophy)
       - Playing chess
-      Although I have to mention that Ram is a nickname that I use. My official name is <mark>Mohammad Rajabi BabaAhmadi</mark>.
+      - Hang out with my friends
 
 # Footer
 footer_show_references: true
