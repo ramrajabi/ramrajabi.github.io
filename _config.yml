@@ -12,7 +12,7 @@ email: RamRajabi@tuta.io
 website: RamRajabi.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username: ramrajabi
